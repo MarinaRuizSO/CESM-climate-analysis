@@ -1,4 +1,4 @@
-# CESM model data from AllForcing and FixedEASO2 experiment using Python and NetCDF files
+# Python analysis of NetCDF files from climate models 
 
 Python3 code for NetCDF files. Analysis of climatology behaviour, precipitation metrics and significance testing. 
 
