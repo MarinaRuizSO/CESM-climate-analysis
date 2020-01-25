@@ -17,7 +17,8 @@ Libraries needed (make sure the installed version is compatible with Python3):
 2. `pip3 install numpy` 
 3. `pip3 install netCDF4`
 4. `pip3 install scipy`
-
+5. `pip3 install scikit-learn`
+6. `pip3 install Cartopy`
 
 You should be able to install all the needed dependencies, but if not possible consider creating a virtual environment. Intructions for this are given below:
 
